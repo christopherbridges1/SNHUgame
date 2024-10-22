@@ -1,8 +1,8 @@
-//Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+  //Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The Gaming Room desired to create a game called Draw it or Lose it where players from multiple platforms and devices could play together online. 
 
-
-//What did you do particularly well in developing this documentation?
-
+  / /What did you do particularly well in developing this documentation?
+I felt like I detailed the 
 
 //What about the process of working through a design document did you find helpful when developing the code?
 
